@@ -1,2 +1,5 @@
 created test1.txt file
-i have used git clone command
+i have used git clone command to bring this file into local
+i have used git add, git commit, git push origin main, git status command.
+now i ahve to use git pull command
+
